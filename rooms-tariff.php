@@ -1,0 +1,36 @@
+<?php include 'header.php';?>
+
+<div class="container">
+
+<h2>Rooms & Tariff</h2>
+
+
+<!-- form -->
+
+<div class="row">
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/8.jpg" class="img-responsive"><div class="info"><h3>Luxirious Suites</h3><p>Our rooms are tastefully furnished with premium bedding, comfortable seating, and modern amenities such as high-speed Wi-Fi and flat-screen TVs. For those who need to work while on the road, we offer large work desks and ergonomic chairs to ensure a productive and comfortable stay.</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/9.jpg" class="img-responsive"><div class="info"><h3>Luxirious Suites</h3><p>All of our rooms and suites come with a range of amenities to ensure a comfortable stay, including luxurious linens, plush towels, complimentary toiletries, and in-room coffee and tea facilities. We also offer 24-hour room service and a dedicated concierge team to assist with any requests you may have.</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/10.jpg" class="img-responsive"><div class="info"><h3>Luxirious Suites</h3><p>Our hotel offers a range of beautifully appointed rooms and suites, each designed with your comfort and convenience in mind. Whether you're looking for a cozy single room for a solo traveler or a spacious suite for a family vacation, we have the perfect accommodations to suit your needs.</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/11.jpg" class="img-responsive"><div class="info"><h3>Luxirious Suites</h3><p>Our rooms are tastefully furnished with premium bedding, comfortable seating, and modern amenities such as high-speed Wi-Fi and flat-screen TVs. For those who need to work while on the road, we offer large work desks and ergonomic chairs to ensure a productive and comfortable stay.</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/12.jpg" class="img-responsive"><div class="info"><h3>Luxirious Suites</h3><p>Our rooms are tastefully furnished with premium bedding, comfortable seating, and modern amenities such as high-speed Wi-Fi and flat-screen TVs. For those who need to work while on the road, we offer large work desks and ergonomic chairs to ensure a productive and comfortable stay.</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/13.jpg" class="img-responsive"><div class="info"><h3>Luxirious Suites</h3><p>All of our rooms and suites come with a range of amenities to ensure a comfortable stay, including luxurious linens, plush towels, complimentary toiletries, and in-room coffee and tea facilities. We also offer 24-hour room service and a dedicated concierge team to assist with any requests you may have.</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/14.jpg" class="img-responsive"><div class="info"><h3>Luxirious Suites</h3><p>Our hotel offers a range of beautifully appointed rooms and suites, each designed with your comfort and convenience in mind. Whether you're looking for a cozy single room for a solo traveler or a spacious suite for a family vacation, we have the perfect accommodations to suit your needs.</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/15.jpg" class="img-responsive"><div class="info"><h3>Luxirious Suites</h3><p>Our rooms are tastefully furnished with premium bedding, comfortable seating, and modern amenities such as high-speed Wi-Fi and flat-screen TVs. For those who need to work while on the road, we offer large work desks and ergonomic chairs to ensure a productive and comfortable stay.</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/8.jpg" class="img-responsive"><div class="info"><h3>Luxirious Suites</h3><p>Our rooms are tastefully furnished with premium bedding, comfortable seating, and modern amenities such as high-speed Wi-Fi and flat-screen TVs. For those who need to work while on the road, we offer large work desks and ergonomic chairs to ensure a productive and comfortable stay.</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/9.jpg" class="img-responsive"><div class="info"><h3>Luxirious Suites</h3><p>All of our rooms and suites come with a range of amenities to ensure a comfortable stay, including luxurious linens, plush towels, complimentary toiletries, and in-room coffee and tea facilities. We also offer 24-hour room service and a dedicated concierge team to assist with any requests you may have.</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/10.jpg" class="img-responsive"><div class="info"><h3>Luxirious Suites</h3><p>Our hotel offers a range of beautifully appointed rooms and suites, each designed with your comfort and convenience in mind. Whether you're looking for a cozy single room for a solo traveler or a spacious suite for a family vacation, we have the perfect accommodations to suit your needs.</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/11.jpg" class="img-responsive"><div class="info"><h3>Luxirious Suites</h3><p>Our rooms are tastefully furnished with premium bedding, comfortable seating, and modern amenities such as high-speed Wi-Fi and flat-screen TVs. For those who need to work while on the road, we offer large work desks and ergonomic chairs to ensure a productive and comfortable stay.</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
+ </div>
+
+                     <div class="text-center">
+                     <ul class="pagination">
+                     <li class="disabled"><a href="#">«</a></li>
+                     <li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
+                     <li><a href="#">2</a></li>
+                     
+                     </ul>
+                     </div>
+
+
+</div>
+<?php include 'footer.php';?>
